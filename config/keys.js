@@ -9,3 +9,5 @@ if (process.env.NODE_ENV === "production") {
 //git fetch origin
 //git checkout master
 //git merge origin/master
+
+//npm install --save-dev forever
